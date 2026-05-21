@@ -1,0 +1,35 @@
+What is JavaScript?
+
+JavaScript is a dynamic, high-level programming language primarily used to create interactive and dynamic content on web pages. It is a core technology of the web, alongside HTML and CSS, and enables developers to build rich user interfaces, manipulate webpage elements, and handle events like clicks or form submissions.
+
+JavaScript is versatile and can run both on the client-side (in browsers) and server-side (using environments like Node.js). It is supported by all major browsers and does not require compilation, as scripts are executed directly by the browser's JavaScript engine.
+
+Key Features of JavaScript
+
+DOM Manipulation: JavaScript can dynamically update HTML and CSS, allowing developers to modify webpage content, styles, and structure without reloading the page.
+
+Event Handling: It can respond to user actions like clicks, key presses, or mouse movements, enabling interactive web applications.
+
+Asynchronous Programming: JavaScript supports asynchronous operations using Promises, async/await, and callbacks, making it ideal for tasks like fetching data from APIs.
+
+Cross-Platform: It runs on various platforms, including browsers, servers, and even IoT devices.
+
+Object-Oriented: JavaScript supports object-oriented programming with features like classes, inheritance, and encapsulation.
+
+--------------------------------------------------------------------------
+
+Js Concepts 
+
+1.Js History
+2.Variables
+3.DataTypes
+4.Operators
+5.Condtional Statement ( if condition )
+6.Loops
+7.Function
+8.Class (OOP)
+9.DOM
+10.Asynchronous Program
+
+
+Variables in JavaScript are used to store data values. They can be declared using var, let, or const keywords, each with different scopes and behaviors.
